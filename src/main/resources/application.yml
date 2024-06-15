@@ -1,0 +1,6 @@
+spring:
+  data:
+    mongodb:
+      database: urbanpassDB
+      host: urbanpassDB
+      port: 27017
